@@ -1,0 +1,17 @@
+baseurl = "http://127.0.0.1:1313/"
+languageCode = "en-us"
+title = "Chengy"
+theme = "hugo-paper"
+
+[[menu.main]]
+  name = "Articles"
+  url = "/post/"
+  weight = 1
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 3
+[[menu.main]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 2
