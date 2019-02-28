@@ -1,4 +1,4 @@
-baseurl = "http://127.0.0.1:1313/"
+baseurl = "https://blog.chenguiyi.cn/"
 languageCode = "en-us"
 title = "Chengy"
 theme = "hugo-paper"
